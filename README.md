@@ -26,5 +26,4 @@ Future Improvements
 - Save previous bills
 
 Author
-
-Soham (Koley's Tech Tips)
+Soham Koley 
